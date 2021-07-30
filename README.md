@@ -6,8 +6,8 @@ Welcome to my repository. I am a Master Student in Business Informatics passiona
 
 ## **Data science** ##
 
- * **Python**
-    - 2021-07-26 : [Garbage classification - kaggle dataset](https://github.com/KesThav/Data_science_projects/tree/main/2021_07_26_Garbage_classification)
+**Python**
+  - 2021-07-26 : [Garbage classification using CNN - kaggle dataset](https://github.com/KesThav/Data_science_projects/tree/main/2021_07_26_Garbage_classification)
 
 
 
@@ -21,7 +21,7 @@ Welcome to my repository. I am a Master Student in Business Informatics passiona
 
 - 2021-07-23 : [Bellabeat -How-can-a-wellness-technology-company-play-it-smart](https://github.com/KesThav/Data_analytics_case_studies/tree/main/2021_07_23_Bellabeat)
 
-**Web Development**
+## **Web Development** ##
 
 - 2021-07-10 : [Portfolio](https://github.com/KesThav/Portfolio)
 - 2021-01-06 : [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex)
