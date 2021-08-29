@@ -10,6 +10,7 @@ Welcome to my repository. I am a Master Student in Business Informatics passiona
   - 2021-07-17 : [Bike-share - How Does a Bike-Share Navigate Speedy Success](https://github.com/KesThav/Data_analytics_case_studies/tree/main/2021_07_17_Bike_share)
 
 **R**
+- 2021-08-27 : [PPR - Pre process and analyze dataset without coding](https://github.com/KesThav/pre_process_R)
 - 2021-08-21 : [World university ranking - Shiny](https://github.com/KesThav/World_university_ranking_shiny)
 - 2021-07-23 : [Bellabeat -How-can-a-wellness-technology-company-play-it-smart](https://github.com/KesThav/Data_analytics_case_studies/tree/main/2021_07_23_Bellabeat)
 
