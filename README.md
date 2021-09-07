@@ -16,7 +16,6 @@ Welcome to my repository. I am a Master Student in Business Informatics passiona
 
 ## **Web Development** ##
 
-- 2021-07-10 : [Portfolio](https://github.com/KesThav/Portfolio)
 - 2021-01-06 : [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex) `Bachelor Thesis`
 
 
