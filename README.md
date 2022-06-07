@@ -1,8 +1,8 @@
 Hi,
 
-Welcome to my repository. I am a Master Student in Business Informatics passionated by Machine Learning. 
+I am a Master Student in Business Informatics passionated by Data Analytics and Machine Learning. 
 
-# List of my projects #
+# Some of my projects #
 
 
 **Python**
@@ -30,5 +30,6 @@ Welcome to my repository. I am a Master Student in Business Informatics passiona
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="75">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" alt="R" height="75">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" alt="solidity" height="75>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" height="75">
 </p>
