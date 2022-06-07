@@ -3,21 +3,9 @@ Hi,
 I am a Master Student in Business Informatics passionated by Data Analytics and Machine Learning. 
 
 # Some of my projects #
-
-
-**Python**
-  - 2021-07-26 : [Garbage classification using CNN - kaggle dataset](https://github.com/KesThav/Data_science_projects/tree/main/2021_07_26_Garbage_classification)
-  - 2021-07-17 : [Bike-share - How Does a Bike-Share Navigate Speedy Success](https://github.com/KesThav/Data_analytics_case_studies/tree/main/2021_07_17_Bike_share)
-
-**R**
-- 2021-08-27 : [PPR - Pre-process, analyze, visualize, join and apply machine learning models on datasets without coding.](https://github.com/KesThav/pre_process_R)
-- 2021-08-21 : [World university ranking - Shiny](https://github.com/KesThav/World_university_ranking_shiny)
-- 2021-07-23 : [Bellabeat -How-can-a-wellness-technology-company-play-it-smart](https://github.com/KesThav/Data_analytics_case_studies/tree/main/2021_07_23_Bellabeat)
-
-## **Web Development** ##
-
-- 2021-01-06 : [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex) `Bachelor Thesis`
-- 2022-05-06 : [Certify degrees using Blockchain](https://github.com/KesThav/UniCertify)
+- [Certify degrees using Blockchain](https://github.com/KesThav/UniCertify)  
+- [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex) `Bachelor Thesis`  
+- [PPR - Pre-process, analyze, visualize, join and apply machine learning models on datasets without coding.](https://github.com/KesThav/pre_process_R)
 
 # Language and tools #
 <p align="center">
