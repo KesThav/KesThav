@@ -3,6 +3,7 @@ Hi,
 I am a Master Student in Business Informatics passionated by Data Analytics and Machine Learning. 
 
 # Some of my projects #
+- [Appointment management System](https://github.com/KesThav/appointment-management)
 - [Shopping app working on Blockchain](https://github.com/KesThav/Shopping-blockchain)
 - [Certify degrees using Blockchain](https://github.com/KesThav/UniCertify)  
 - [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex) `Bachelor Thesis`  
