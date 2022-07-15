@@ -9,7 +9,7 @@ I am a Master Student in Business Informatics passionated by Data Analytics and 
 - [Appartex : Real estate management web app for independent owners and their tenants](https://github.com/KesThav/Appartex) `Bachelor Thesis`  
 - [PPR - Pre-process, analyze, visualize, join and apply machine learning models on datasets without coding.](https://github.com/KesThav/pre_process_R)
 
-# Language and tools #
+# Language and tools i used #
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="30">
